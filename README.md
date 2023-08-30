@@ -1,5 +1,5 @@
 # Generrete
-It is a web application that utilizes the MERN stack to enable users to generate offer letters and singlecolumn
+It is a web application that utilizes the MERN stack to enable users to generate offer letters and multi column
 resumes that are compatible with applicant tracking systems.
 
 ### To visit Generrete [here](https://generrete.netlify.app/) 
@@ -30,6 +30,17 @@ resumes that are compatible with applicant tracking systems.
 
 ## Create Offer-letter
 ![image](https://github.com/Chirag-12345/Generrete/assets/88598849/61c8a395-c9e9-4d10-8f35-4d25dc5c4c1d)
+
+## Sample Resume
+![image](https://github.com/Chirag-12345/Generrete/assets/88598849/97b4b625-5b92-403f-a49c-613d5aad7037)
+![image](https://github.com/Chirag-12345/Generrete/assets/88598849/af7db4b5-5a71-4613-bbb7-c53caf648431)
+
+## Sample offer-letter
+![image](https://github.com/Chirag-12345/Generrete/assets/88598849/9d4735ba-aa83-4c79-a5ae-c2613074d984)
+![image](https://github.com/Chirag-12345/Generrete/assets/88598849/033c170f-eaf6-44cd-84ed-4cf30ce5df64)
+
+## Profile
+![image](https://github.com/Chirag-12345/Generrete/assets/88598849/077fe7e1-3a2f-45bb-9f07-cbb9258ee0f9)
 
 
 
